@@ -2,7 +2,22 @@
 
 > React component for asynchronously fetching data
 
-[![NPM](https://img.shields.io/npm/v/async-data-access.svg)](https://www.npmjs.com/package/async-data-access) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![Travis][build-badge]][build]
+[![NPM][npm-badge]][npm]
+[![Coveralls][coveralls-badge]][coveralls]
+[![JavaScript Style Guide][standardjs-badge]][standardjs]
+
+[build-badge]: https://img.shields.io/travis/stevesims/async-data-access/master.svg
+[build]: https://travis-ci.org/stevesims/async-data-access
+
+[npm-badge]: https://img.shields.io/npm/v/async-data-access.svg
+[npm]: https://www.npmjs.com/package/async-data-access
+
+[coveralls-badge]: https://coveralls.io/repos/github/stevesims/async-data-access/badge.svg?branch=master
+[coveralls]: https://coveralls.io/github/stevesims/async-data-access?branch=master
+
+[standardjs-badge]: https://img.shields.io/badge/code_style-standard-brightgreen.svg
+[standardjs]: https://standardjs.com
 
 ## Install
 
