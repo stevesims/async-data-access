@@ -8,6 +8,9 @@ node_modules
 build
 dist
 
+# code coverage reports
+coverage
+
 # misc
 .DS_Store
 .env
