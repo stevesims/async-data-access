@@ -1,6 +1,6 @@
 {
   "name": "async-data-access",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React component for asynchronously fetching data",
   "author": "stevesims",
   "license": "MIT",
