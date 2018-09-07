@@ -4,6 +4,7 @@
 
 [![Travis][build-badge]][build]
 [![NPM][npm-badge]][npm]
+[![Coveralls][coveralls-badge]][coveralls]
 [![JavaScript Style Guide][standardjs-badge]][standardjs]
 
 [build-badge]: https://img.shields.io/travis/stevesims/async-data-access/master.svg
